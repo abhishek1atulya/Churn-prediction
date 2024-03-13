@@ -40,6 +40,4 @@ To run this project, ensure you have Jupyter Notebook or JupyterLab installed. I
 
 This project welcomes contributions from the community. Whether it's improving the predictive models, extending the analysis, or correcting errors, your input is valuable.
 
----
 
-This README template provides a structured overview of your notebook. You can adjust the content to fit more details or specific requirements of your project.
